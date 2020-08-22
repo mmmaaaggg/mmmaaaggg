@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![mmmaaaggg's github stats](https://github-readme-stats.vercel.app/api?username=mmmaaaggg)](https://github.com/anuraghazra/github-readme-stats)
+
 我的[Github summary](https://profile-summary-for-github.com/user/mmmaaaggg)欢迎进入访问
 
 
