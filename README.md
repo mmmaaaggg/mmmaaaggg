@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 由于近期经常无法方位 github 因此将部分活跃项目迁移到 gitee 同名目录下
+#### 由于近期经常无法方位 github 因此将部分活跃项目迁移到 gitee 同名目录下 https://gitee.com/mmmaaaggg
 
 ```
               ,----------------,              ,---------,
